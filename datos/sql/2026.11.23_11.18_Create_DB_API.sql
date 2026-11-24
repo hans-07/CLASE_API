@@ -1,0 +1,2 @@
+CREATE DATABASE api;
+USE api;
